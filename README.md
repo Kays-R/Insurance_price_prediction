@@ -1,7 +1,7 @@
 # Insurance_price_prediction
 
 ### Problem statement:  
-
+To predict the approximate insurance cost based upon the rest of the features provided for each individual.
 
 Attributes in the dataset.  
 **Age**: age of primary beneficiary  
@@ -11,3 +11,6 @@ Attributes in the dataset.
 **Smoker**: Smoking = yes or no.  
 **Region**: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest.  
 **Charges**: Individual medical costs billed by health insurance.  
+
+
+Libraies used: Pandas,
