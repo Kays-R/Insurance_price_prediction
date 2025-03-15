@@ -17,4 +17,5 @@ Libraies used: Pandas, Numpy Matplotlib and Seaborn
 
 Flow of solution:  
 1) Understanding the data
-2) Checking ...
+2) Determining the importance of each variable
+3) 
