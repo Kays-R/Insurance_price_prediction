@@ -19,4 +19,5 @@ Flow of solution:
 1) Understanding the data
 2) Determining the importance of each variable/ Performing EDA
 3) Handling missing values  
-4) As using Linear regression mode;
+4) As using Linear Regression model checking for assumptions
+5) 
