@@ -20,4 +20,5 @@ Flow of solution:
 2) Determining the importance of each variable/ Performing EDA
 3) Handling missing values  
 4) As using Linear Regression model checking for assumptions
-5) Using EDA to verify assumptions  
+5) Using EDA to verify assumptions
+6) 
