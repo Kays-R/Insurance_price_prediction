@@ -22,4 +22,5 @@ Flow of solution:
 4) As using Linear Regression model checking for assumptions
 5) Using EDA to verify assumptions
 6) Converting categorical variables to numerical
-7) 
+7) Using log transformation to reduce skewness in data
+8) 
