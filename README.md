@@ -21,4 +21,5 @@ Flow of solution:
 3) Handling missing values  
 4) As using Linear Regression model checking for assumptions
 5) Using EDA to verify assumptions
-6) 
+6) Converting categorical variables to numerical
+7) 
