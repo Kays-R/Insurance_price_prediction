@@ -23,4 +23,4 @@ Flow of solution:
 5) Using EDA to verify assumptions
 6) Converting categorical variables to numerical
 7) Using log transformation to reduce skewness in data
-8) Confirming there is no multicollinearity in the data.  
+8) Checking for multicollinearity in the data.  
