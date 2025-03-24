@@ -25,4 +25,4 @@ Flow of solution:
 7) Using log transformation to reduce skewness in data
 8) Checking for multicollinearity in the data  
 9) 
-10) 
+10) Importing the base model  
