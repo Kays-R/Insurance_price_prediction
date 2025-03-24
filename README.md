@@ -26,4 +26,4 @@ Flow of solution:
 8) Checking for multicollinearity in the data  
 9) Splitting the data
 10) Importing the base model
-11) Training the model  
+11) Training the model    
