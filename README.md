@@ -27,4 +27,4 @@ Flow of solution:
 9) Splitting the data
 10) Importing the base model
 11) Training the model
-12) Testing
+12) Testing model
