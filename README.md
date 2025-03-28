@@ -28,4 +28,4 @@ Flow of solution:
 10) Importing the base model
 11) Training the model
 12) Testing model on unseen data
-13) validation
+13) Validation
