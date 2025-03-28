@@ -24,8 +24,8 @@ Flow of solution:
 6) Converting categorical variables to numerical
 7) Using log transformation to reduce skewness in data
 8) Checking for multicollinearity in the data  
-9) Splitting the data
+9) Splitting the data 
 10) Importing the base model
 11) Training the model
 12) Testing model on unseen data
-13) Validation
+13) Evaluation Metrics
