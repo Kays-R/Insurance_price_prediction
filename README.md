@@ -30,4 +30,3 @@ Flow of solution:
 12) Testing model on unseen data
 13) Evaluation Metrics
 14) Tuning the model
-15) 
