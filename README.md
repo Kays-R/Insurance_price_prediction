@@ -29,4 +29,4 @@ Flow of solution:
 11) Training the model
 12) Testing model on unseen data
 13) Evaluation Metrics
-14) Tuning the
+14) Tuning the model
