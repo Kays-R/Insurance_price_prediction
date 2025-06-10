@@ -4,7 +4,7 @@
 To predict the approximate insurance cost based upon the rest of the features provided for each individual.
 
 **Attributes in the dataset:**  
-**Age**: age of primary beneficiary  
+**Age**: age of primary beneficiary.  
 **Sex**: insurance contractor gender = female, male.  
 **BMI**: Body mass index, providing an understanding of body, weights that are relatively high or low relative to height, objective index of body weight (kg / m ^ 2) using the ratio of height to weight, ideally 18.5 to 24.9.  
 **Children**: Number of children covered by health insurance / Number of dependents.  
