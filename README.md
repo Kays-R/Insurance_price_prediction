@@ -13,7 +13,7 @@ To predict the approximate insurance cost based upon the rest of the features pr
 **Charges**: Individual medical costs billed by health insurance.  
 
 
-Libraies used: Pandas, Numpy Matplotlib and Seaborn  
+**Libraies used:** Pandas, Numpy Matplotlib and Seaborn  
 
 Flow of solution:  
 1) Understanding the data
